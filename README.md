@@ -44,7 +44,7 @@ In case there are problems with the PyBullet installation, you can refer to this
 
 ### Running the Project
 * Navigate to the examples folder.
-* Run the solution.py file in your terminal.
+* Run the `solution.py` file in your terminal.
 
 
 ## Using the Arena  
